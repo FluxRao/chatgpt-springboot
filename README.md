@@ -22,5 +22,9 @@
 
 11. ask some specific questions related to code examples and it will give you all
 
-# Nite: You can create an OpenAI API key for free. All new trial users usually get $5 worth of credit after signing up. However, this credit expires after three months.
+# Note: You can create an OpenAI API key for free. All new trial users usually get $5 worth of credit after signing up. However, this credit expires after three months.
+
+_*_*_*_*_*_*_*_*__**__*_*_*_*_*_*__*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+
+# Happy coding
 
